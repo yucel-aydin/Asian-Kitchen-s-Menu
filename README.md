@@ -16,7 +16,7 @@ Linux için;
     cd Asian-Kitchen-s-Menu
     code .
 # Live Demo
-[Demoyu Aç]()
+[Demoyu Aç](https://level-cat-taxi.glitch.me)
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız.
